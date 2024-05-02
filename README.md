@@ -1,6 +1,6 @@
 # js-crud-api
 
-This is a Node.js port of the [php-crud-api](https://github.com/mevdschee/php-crud-api) project (single file REST API). It currently only implements the core functionality.
+This is a Node.js port of the [php-crud-api](https://github.com/RCLDevelopers/js-crud-api-master) project (single file REST API). It currently only implements the core functionality.
 
 ### Dependencies
 
